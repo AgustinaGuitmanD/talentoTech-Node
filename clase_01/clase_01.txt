@@ -1,0 +1,40 @@
+Definición
+
+JavaScript añade interactividad a las páginas web.
+Función
+
+Hace que los elementos respondan a acciones del usuario.
+Beneficio
+
+Permite que las páginas sean dinámicas y funcionales.
+
+Ejemplo Práctico de JavaScript
+document.querySelector('button')
+        .addEventListener('click', () => {
+        alert('¡Botón clickeado!'); }
+        );
+Este código JavaScript muestra una alerta al hacer clic en un botón.
+
+JavaScript Avanzado: Arrays y Objetos
+
+Además de estas funciones básicas, JavaScript también nos permite trabajar con estructuras más avanzadas como arrays y objetos, que son fundamentales para almacenar y manipular datos. 
+Por ejemplo:
+Arrays
+
+const numeros = [1, 2, 3, 4];
+const dobles = numeros.map(num => num * 2);
+
+Objetos
+
+const persona = { nombre: "Ana", edad: 25 };
+console.log(persona.nombre);
+
+React JS
+En este curso, exploraremos React, una de las bibliotecas más populares para construir interfaces de usuario en aplicaciones web. Aprenderemos desde los conceptos básicos, como componentes y estados, hasta temas más avanzados como el manejo de ciclos de vida, hooks, y gestión del estado global.
+
+Nuestro objetivo es ayudarlos a dominar React para que puedan desarrollar aplicaciones interactivas, modernas y escalables.
+
+Node JS
+Lo vamos usar por las build tools. Vamos a usar vite.
+Entorno de ejecución, no es un framework.
+Js no nació para ser usado en el backend.
