@@ -1,0 +1,13 @@
+para crear un proyecto -> en la consola escribir 
+npn create vite.
+
+La carpeta pública es para archivos estáticos.
+Assets -> recursos multimedia.
+
+El jsx se renderiza a través del scipt
+
+React es funcional.
+la función cuenta de 2 partes: 
+    La parte de lógica
+    El return donde se renderiza lo que se devuelve.
+
